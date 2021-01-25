@@ -1,0 +1,12 @@
+export const SET_USER_ID = 'app/SET_USER_ID';
+export const GET_ALL_POSTS = 'app/GET_ALL_POSTS';
+export const SET_ALL_POSTS = 'app/SET_ALL_POSTS';
+export const CREATE_USER = 'app/CREATE_USER';
+export const CREATE_POST = 'app/CREATE_POST';
+export const EDIT_POST = 'app/EDIT_POST';
+export const ADD_COMMENT = 'app/ADD_COMMENT';
+export const EDIT_COMMENT = 'app/EDIT_COMMENT';
+export const ADD_REACTION = 'app/ADD_REACTION';
+export const SET_ADD_POST_STATUS = 'app/SET_ADD_POST_STATUS';
+export const SET_POST_DETAILS = 'app/SET_POST_DETAILS';
+export const GET_POST_DETAILS = 'app/GET_POST_DETAILS';
